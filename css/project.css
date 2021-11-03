@@ -25,6 +25,10 @@
     border: 1px solid #ff8800;
 }
 
+.img_project{
+    width: 40%;
+}
+
 .project_button{
     text-decoration: none;
     border: 1px solid #888888;
