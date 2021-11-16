@@ -9,7 +9,7 @@ body::before{
         45deg,
         rgba(168, 7, 7, 0.9) 0%,
         rgba(223, 155, 10, 0.9) 100%
-    ),url(images/Nahum\ v\ Diemen\ \(3\).JPG) no-repeat;
+    ),url(images/bw-nahum.jpg) no-repeat;
     background-size: cover;
     background-repeat: no-repeat;
     background-position-y: 13%;
