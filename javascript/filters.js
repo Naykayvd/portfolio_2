@@ -70,6 +70,15 @@ let projects = [
         description: "A Pokedex made with javascript and an api",
         githubURL: "https://github.com/Naykayvd/pokedex-api",
         liveprojectURL: "https://pokedex-nahum.netlify.app"
+    },
+    // project 9
+    {
+        imageURL: "./css/images/old_portfolio.png",
+        title: "First Portfolio",
+        techStack: "HTML/CSS",
+        description: "My first portfolio I made while I was learning to code",
+        githubURL: "https://github.com/Naykayvd/portfolio-project",
+        liveprojectURL: "https://nahum-vandiemen.netlify.app"
     }
 ];
 
