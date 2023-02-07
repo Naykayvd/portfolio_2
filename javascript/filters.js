@@ -79,6 +79,15 @@ let projects = [
         description: "My first portfolio I made while I was learning to code",
         githubURL: "https://github.com/Naykayvd/portfolio-project",
         liveprojectURL: "https://nahum-vandiemen.netlify.app"
+    },
+    // Project 10
+    {
+        imageURL: "./css/images/weather.png",
+        title: "Weather tracker",
+        techStack: "Javascript",
+        description: "A web app that tracks the weather in any city with a search function, data is captued with an API",
+        githubURL: "https://github.com/Naykayvd/weather-checker",
+        liveprojectURL: "https://weather-checker-nahum.netlify.app/"
     }
 ];
 
